@@ -1,19 +1,22 @@
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/c1aa158c-e353-4eba-880f-add4bd660a87" />
+
 # 👋 Hi, I'm Valeriia Ergiun (Mikhaylina)
 
 💼 **Implementation Stream Manager @ Access Softek**  
-🌍 Based in Kemer, Antalya, Turkey | 🌐 Working with U.S. credit unions and banks  
+🌍 Based in Kemer, Antalya, Turkey | 🌐 Working with U.S. credit unions 
 📧 valeriya.ergun@gmail.com | [LinkedIn](https://www.linkedin.com/in/valeriia-ergiun-mikhaylina-822a52284)  
 
 ---
 
 ## 🚀 About Me  
-Implementation Stream Manager with **14+ years of experience** in software quality assurance, digital banking, and project coordination.  
+Implementation Stream Manager with **14+ years of experience** in software quality assurance, digital banking, project coordination, and **people management**.  
 Currently leading **conversion projects from legacy digital banking platforms to Access Digital**.  
 
 Key strengths:  
 - Implementation testing leadership (legacy → Access Digital)  
 - Cross-functional team coordination (QA, Dev, Infra, Business)  
 - Data migration & environment management (DEV/TEST/PROD)  
+- People Management – mentoring, coaching, team growth  
 - Risk management & issue resolution  
 - Stakeholder communication & reporting  
 
@@ -24,8 +27,9 @@ Key strengths:
 - **Legacy to Access Digital Conversions**  
 - **QA Leadership & Testing Scopes**  
 - **Release & Migration Management**  
+- **People Management**  
 - **Agile / Scrum / SAFe**  
-- **Cross-team communication**  
+- **Cross-team communication**
 
 ---
 
@@ -41,8 +45,9 @@ Key strengths:
 - **Project Tools:** Jira, Zephyr Scale (TM4J), Confluence  
 - **Cloud & Infra:** AWS Management Console, Octopus Deploy, Kibana  
 - **OS & Platforms:** MacOS, Windows, iOS, Android  
-- **Other:** TestRail, Ensenta EZ, Episys Quest – Symitar (core banking system)  
-- **Languages & Markup:** SQL (queries for migration checks), HTML, CSS  
+- **Other:** TestRail, Episys Quest – Symitar (core banking system), MCP servers  
+- **Languages & Markup:** HTML, CSS, Python  
+- **AI / Automation:** AI tools, automation scripts, Python-based solutions
 
 ---
 
