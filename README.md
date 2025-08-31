@@ -1,4 +1,4 @@
-<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/c1aa158c-e353-4eba-880f-add4bd660a87" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/c1aa158c-e353-4eba-880f-add4bd660a87" />
 
 # 👋 Hi, I'm Valeriia Ergiun (Mikhaylina)
 
