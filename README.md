@@ -9,7 +9,7 @@
 ---
 
 🚀 **About Me**  
-Implementation Stream Manager with **14+ years of experience** in software quality assurance, digital banking, project coordination, and **people management**.  
+Implementation Sub-Stream Manager with **14+ years of experience** in software quality assurance, digital banking, project coordination, and **people management**.  
 Currently leading **conversion projects from legacy digital banking platforms to Access Digital**.  
 
 Key strengths:  
