@@ -1,9 +1,10 @@
 
 
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/c1aa158c-e353-4eba-880f-add4bd660a87" /> **Valeriia Ergiun (Mikhaylina)**
+Remote QA Lead | QA Project Manager | Agile QA Leader
 
 💼 **Implementation Stream Manager @ Access Softek**  
-🌍 Based in Kemer, Antalya, Turkey | 🌐 Working with U.S. credit unions 
+🌍 Based in Turkey | Open to Remote (US / Europe)
 📧 valeriya.ergun@gmail.com | [LinkedIn](https://www.linkedin.com/in/valeriia-ergiun-mikhaylina-822a52284)  
 
 ---
@@ -30,6 +31,7 @@ Key strengths:
 - **People Management**  
 - **Agile / Scrum / SAFe**  
 - **Cross-team communication**
+- **Soft Skills: Mentoring, conflict resolution, executive communication**
 
 ---
 
